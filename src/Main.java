@@ -12,7 +12,7 @@ public class Main {
             String line;
 
             while((line = br.readLine()) != null){
-                String[] words = line.split("//W+");
+                String[] words = line.split("\\W+");
 
                 for(String word : words){
                     if(word.isEmpty())continue;
