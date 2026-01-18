@@ -1,4 +1,51 @@
-palabra
-palbra
-palabra
-
+Frontend: React, React Native
+Backend: NodeJS + TypeScript
+Infra: AWS, Go, Python, Docker, CI/CD
+Data: Redis, Postgres, DynamoDB, Clickhouse
+AI/ML: Python pipelines, LLM integrations, internal models
+Bachelor’s degree in Computer Science, IT, Engineering, or a related field
+Proficiency in one or more programming languages such as Java, Python, C/C++, JavaScript
+Strong understanding of data structures, algorithms, and OOP concepts
+Basic knowledge of databases (SQL / NoSQL) and application development concepts
+Familiarity with version control systems (Git)
+Good problem-solving ability and communication skills
+2-4 years of experience in software development or a related field.
+Ability to show programming skills in an object-oriented language such as Java or C#, with proven work experience as a full-stack developer
+Experience with database frameworks such as NoSQL, SQL Databases, Object-Relational Mapping (ORM) frameworks
+Understanding the entire software development process (design, development and deployment)
+Experience developing and deploying applications for Cloud Native Infrastructure
+Experience working within Agile framework
+Good analytical and time management skills, with a proven ability to deliver value with some assistance
+Familiarity with monitoring and supporting production systems, proficiency in identifying and resolving issues, implementing proactive measures, and tracking measurements.
+Knowledge of performance measurements of applications
+Understanding and some practical application of REST API best practices. Proficiency in adhering to standards, ensuring security, scalability, and optimal performance
+Developing tests, including unit tests, UI automation tests, integration tests
+Teamwork skills with a problem-solving attitude and willing to take a variety of approaches
+Strong written and verbal communication skills, with demonstrated experience providing technical input
+Ability to participate in on call rotation
+2+ years designing robust, high performance scalable systems, or else solid experience with c++.
+The ideal candidate will have a working knowledge of both backend and game side languages.
+Experience using Docker and Kubernetes
+Experience with cloud technologies, preferably any of the following AWS, Azure and Google cloud
+Experience with Unix like operating systems
+Commitment to code quality, documentation, and sound testing procedures
+Ability to learn and master innovative technologies and code
+Ability to work independently and efficiently under deadlines
+Realtime multiplayer peer to peer or client server experience
+Shipped one or more game titles
+Experience developing for game consoles is a plus
+Solve complex problems and own the success of your solutions as you architect, build, test, and deliver full-stack products.
+Communicate, collaborate, and develop with engineers, platform/infrastructure teams, product managers, designers, and support teams.
+Build upon skills and knowledge across a range of technologies, such as Go, GraphQL, Typescript, React, and MySQL. Previous experience with these technologies is not required.
+Own the operational health of production systems as we build for the future scale of an ever-growing customer base.
+Make an impact on our core architecture, roadmap, and the wider engineering community.
+Champion, role model, and embed Samsara’s cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices
+6+ years fullstack experience with React TS and Python (Node.js or similar acceptable for part of that experience)
+Strong end-to-end SDLC skills - design through deployment - with emphasis on clean, maintainable code
+Intellectually curious: Eager to master a fairly complex domain (equity compensation, taxation) and to evolve with modern (AI-based) approaches to building software
+Proficient with Cursor or Claude Code for thoughtful, structured software product development (not "vibe coding")
+Proactive communicator who seeks feedback and unblocks themselves and teammates
+Denver area would be a plus, although this role is open to remote candidates within the US
+Bachelor’s Degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math, Physics or related field OR an equivalent combination of education and experience
+Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)
+Demonstrated knowledge, education, experience and/or training necessary to develop basic software in C, C++, C#, Java, assembly language, or other selected languages
