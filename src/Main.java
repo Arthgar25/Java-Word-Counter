@@ -1,9 +1,6 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -47,8 +44,13 @@ public class Main {
         }
 
         // 3. Print results
-        frequency.forEach((key, value) ->
-                System.out.println(key + ": " + value)
-        );
+        List<Map.Entry<String, Integer>> sortedList =
+                new ArrayList<>(frequency.entrySet());
+
+        sortedList.sort((a, b) -> b.getValue().compareTo(a.getValue()));
+
+        for (Map.Entry<String, Integer> entry : sortedList) {
+            System.out.println(entry.getKey() + ": " + entry.getValue());
+        }
     }
 }

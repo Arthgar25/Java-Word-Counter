@@ -49,3 +49,1453 @@ Denver area would be a plus, although this role is open to remote candidates wit
 Bachelor’s Degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math, Physics or related field OR an equivalent combination of education and experience
 Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)
 Demonstrated knowledge, education, experience and/or training necessary to develop basic software in C, C++, C#, Java, assembly language, or other selected languages
+2+ years proficiency in TypeScript/JavaScript development (primary focus).
+Hands-on experience with AWS services including ECS/Fargate, DynamoDB, Kinesis, IAM, and CDK.
+A solid understanding of DevOps practices and CI/CD implementation.
+Experience with Agile/Scrum methodologies.
+Demonstrated ability to write unit tests.
+Proficiency with GitHub (hooks, workflows, actions)
+Creates and executes designs for small sets of new functionalities as part of a software project using C#/.NET Core 6 or greater, Entity Framework, LINQ, Blazor and ASP.NET Core including Web API's or other selected languages
+Utilizes software engineering tools such as configuration management systems, build processes, and debuggers in the software development process
+May perform as a technical leader or Lead Software Engineer for derivative software project
+Collaborates and adds value through participation in peer code reviews, providing comments and suggestions
+Provides reliable solutions to a variety of problems using sound problem solving techniques
+Performs technical root cause analysis and outlines corrective action for given problems
+Contributes to technical research on new technologies
+Estimates level of effort, evaluates new options of similar technology, offers suggestions to improve processes, and provides feedback on some electrical design aspects
+Serves as a mentor to less experienced software engineers (Software Engineer 1)
+Supports working hours as part of a rotating schedule to provide on call support of Garmin’s 24/7 operations
+Bachelor’s Degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math, Physics or related field AND a minimum of 1 year relevant experience OR an equivalent combination of education and experience
+Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)
+Demonstrated proficiency and experience necessary to develop moderately complex software in C#/.NET Core Framework and or other selected languages
+Proficient knowledge, utilization and mastery of relevant software engineering tools (configuration management systems, build processes, debuggers, emulators, simulators and logic analyzers)
+Desired Qualifications
+Experience with .NET Core 8 is ideal
+Database experience which includes writing SQL statements and queries
+Aviation industry or a passion for aviation is a plus
+Full-stack development;
+Building and coding applications using languages/technologies such as Java, Python, Spring, Web Services, , SQL;
+Frontend technologies: Angular, HTML, TypeScript, and Bootstrap.
+Cloud Technologies: Azure , Databricks;
+SQL database design and development;
+Java, J2EE, Angular, and Unix/Shell scripting;
+SOAP and REST Web Services;
+Creating CI/CD pipelines using Jenkins, GitHub, Maven, or Gradle;
+SDLC methodologies including Waterfall and Agile; and
+CSS, JavaScript, Junit.
+Section 1: Position Summary
+As a Software Engineer at Ascensus, you will be part of a high-energy, collaborative team focused on delivering innovative software solutions using modern engineering practices — including unit testing, source control, continuous integration, automation, and design patterns.
+
+In this role, you will leverage your expertise in C# and the .NET framework to design, develop, and maintain scalable applications, including customized extensions for content capture and storage platforms such as Kofax. You will also be responsible for modernizing legacy systems, including the migration of VB6 applications to .NET 4.5+.
+
+Passion for quality code, technical excellence, and continuous improvement is essential. You’ll be part of an agile team empowered to solve complex business challenges through automation, efficiency, and rapid delivery pipelines.
+
+Section 2: Job Functions, Essential Duties and Responsibilities
+Responsible for protecting, securing, and handling all confidential data held by Ascensus to ensure against unauthorized access, improper transmission, or unapproved disclosure of information that could result in harm to Ascensus or our clients.
+Demonstrate Ascensus’ Core Values — People Matter, Quality First, and Integrity Always® — in all daily actions, fostering our I-Client service philosophy.
+Translate application storyboards and use cases into functional, scalable, and maintainable software solutions.
+Design, develop, test, document, and maintain efficient .NET applications using C#, ASP.NET, and related frameworks.
+Develop custom extensions and enhancements for Kofax applications to improve content capture and document processing.
+Identify, design, and implement solutions to improve application performance, scalability, and responsiveness.
+Diagnose and resolve production issues in a timely manner in accordance with Service Level Agreements (SLAs).
+Participate in the full Software Development Life Cycle (SDLC), including requirement gathering, architecture design, implementation, testing, deployment, and support.
+Support people and process improvement strategies for the organization.
+Migrate and modernize legacy systems, including VB6 to .NET 4.5+ conversions.
+Develop and consume web services (REST/SOAP) and integrate them with existing applications.
+Collaborate closely with other developers, QA engineers, DevOps, and support teams to ensure smooth deployment and continuous operation.
+Apply automation, continuous integration, and deployment (CI/CD) practices to streamline releases.
+Utilize AI tools to automate workflows, enhance productivity, and integrate intelligent features in application development.
+Leverage containerization tools such as Docker or Kubernetes to support scalable deployment architectures.
+Engage in design discussions with both technical and non-technical stakeholders.
+Assist in estimating, sprint planning, and Agile ceremonies as part of a Scrum team.
+Perform other related duties and projects as assigned.
+Section 3: Experience, Skills, and Knowledge Requirements
+Education & Experience:
+3+ years of professional software development experience in small to medium-scale business environments.
+Hands-on experience developing and maintaining .NET applications in C# for at least 3 years.
+Experience with Kofax Capture or similar content capture systems preferred.
+Experience modernizing and migrating VB6 or other legacy applications to .NET 4.5+.
+Technical Skills:
+Proficiency in C#, ASP.NET, .NET Framework 4.5+, and related technologies.
+Strong understanding of Object-Oriented Programming (OOP) and design principles (S.O.L.I.D., cohesion, coupling, design patterns).
+Experience with Microsoft SQL Server or Oracle databases; ability to design efficient schemas and stored procedures.
+Proficient in XML, JSON, and HTML5.
+Familiarity with Services-Oriented Architecture (SOA) and RESTful APIs.
+Experience with containerization (Docker, Kubernetes) and CI/CD tools (Azure DevOps, Jenkins, or similar).
+Understanding of web technologies such as HTTP, proxies, and Apache/Nginx.
+Experience with version control systems (Git preferred).
+Knowledge of concurrency patterns and multi-threaded programming in C#.
+Familiarity with open-source development practices.
+Experience with Python, JavaScript, jQuery, or Knockout.js is a plus.
+Professional Attributes:
+Strong analytical and problem-solving skills.
+Excellent communication and collaboration abilities.
+Demonstrated ability to write clean, efficient, maintainable, and reusable code.
+Passion for software development, innovation, and continuous learning.
+Familiarity with Agile/Scrum methodologies and practices (e.g., test-driven development, continuous integration).
+You are someone who is able to pick up an API or SDK in JAVA, C# or C++ and run with it with minimal guidance. Having the ability to be an independent learner, while still learning and sharing with everyone else.
+Bachelor’s degree from an accredited institution in a technical discipline such as science, technology, engineering, mathematics.
+Minimum of 1 year of experience in software development.
+Strong understanding of programming languages such as C++, Java, or Python.
+Experience with software development tools and methodologies, including version control systems.
+Familiarity with software testing and debugging techniques.
+WE VALUE
+Ability to code in C++ and other languages
+Experience in C/C++ embedded engineering and design in Aerospace Engineering
+Software architecture experience and common core software approach
+Knowledge of Terrain Avoidance and Warning System (TAWS) or Enhanced Ground Proximity Warning System (EGPWS)
+DO-178C familiarity
+Familiarity with STC and TSO certification documents
+Ability to describe complex technical concepts to engineering team members as well as to business and engineering stakeholders
+Organizational and interpersonal skills
+Ability to motivate and lead a team – local and distributed – through your example.
+Understanding various software development lifecycle
+Demonstrate the ability to develop efficient and high-quality software
+Knowledge of software configuration management and change management practices
+Effective communicator
+Can quickly analyze, incorporate and apply new information and concepts
+Ability to consistently make timely decisions even in the face of complexity, balancing systematic analysis with decisiveness
+Ability to convey subtle or complex messages clearly, as appropriate for the topic and audience
+Act as a team member to other engineers, share your skills and expertise, encourage creativity and innovation
+Individuals who are self-motivated and able to work with little supervision, who consistently take the initiative to get things done, do things before being asked by others or forced to by events.
+Davis Technology Management is seeking a seasoned Java Software Engineer to join one of our long-term enterprise clients in Phoenix.
+This is a full-time W2 consulting role onsite with a well-established 100+ year old company. You’ll collaborate closely with a team of 5 onsite, with a larger offshore team for support. Their projects support a large portfolio of applications with varied tech stacks. This role requires strong communication and collaboration skills.
+Mandatory Skills
+The role requires solid professional experience in Java, Spring and AWS cloud-native development. The chosen candidate will have hands-on experience building serverless applications (mandatory), working with modern Java frameworks, and integrating a broad range of AWS services.
+Ideal experience will include:
+Strong expertise with Java/J2EE technologies
+Hands-on development using:
+Spring, Spring Boot, Hibernate, JPA
+REST APIs & Microservices
+Oracle and PL/SQL, RDBMS
+React (front-end integration)
+Strong DevOps knowledge:
+Maven, GitHub, Jenkins, Tomcat, Linux/Unix
+Cloud-native development on AWS, including:
+Lambda, EC2, S3, API Gateway, Route53, Secrets Manager, CloudWatch
+Experience with serverless architecture is mandatory
+Familiar with message brokers like JMS / ActiveMQ
+Exposure to AI-enhanced developer tools (e.g., Cursor AI) is a plus
+Responsibilities
+Design, develop, and maintain scalable, high-performance applications
+Design and implement cloud-native solutions using a wide range of AWS services
+Utilize tools like Cursor AI for faster development and better code quality
+Collaborate across cross-functional teams to define and build new product features
+Maintain and enhance CI/CD pipelines using Jenkins, Git, and related DevOps tools
+Ensure performance, availability, scalability, and secure development practices
+Participate in Agile/Scrum ceremonies and help drive continuous improvement
+Engage in production support rotations when needed
+Work closely with business stakeholders to define requirements and deliver quality solutions
+Stay current with emerging technologies and recommend adoption where appropriate
+Creates and executes designs for small sets of new functionalities as part of a software project using iOS with Swift, or other selected languages
+Utilizes software engineering tools such as configuration management systems, build processes, and debuggers in the software development process
+May perform as a technical leader or Lead Software Engineer for derivative software project
+Collaborates and adds value through participation in peer code reviews, providing comments and suggestions
+Provides reliable solutions to a variety of problems using sound problem solving techniques
+Performs technical root cause analysis and outlines corrective action for given problems
+Contributes to technical research on new technologies
+Estimates level of effort, evaluates new options of similar technology, offers suggestions to improve processes, and provides feedback on some electrical design aspects
+Serves as a mentor to less experienced software engineers (Software Engineer 1)
+Supports working hours as part of a rotating schedule to provide on call support of Garmin’s 24/7 operations
+Qualifications:
+Basic Qualifications
+Bachelor’s Degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math, Physics or related field AND a minimum of 1 year relevant experience OR an equivalent combination of education and experience
+Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)
+Demonstrated proficiency and experience necessary to develop moderately complex software in iOS with Swift and relevant experience and/or training in data structures or object-oriented design methodology.
+Proficient knowledge, utilization and mastery of relevant software engineering tools (configuration management systems, build processes, debuggers, emulators, simulators and logic analyzers)
+Overview:
+We are seeking a full-time Software Engineer - Full Stack (Java/Angular) in our Chandler, AZ location. In this role, you will be responsible for developing moderately complex software and creating and executing designs for small sets of new functionalities for Garmin products and/or applications.
+Responsibilities:
+Essential Functions
+Creates and executes designs for small sets of new functionalities as part of a software project using C#, Java, or other selected languages
+Utilizes software engineering tools such as configuration management systems, build processes, and debuggers in the software development process
+May perform as a technical leader or Lead Software Engineer for derivative software project
+Collaborates and adds value through participation in peer code reviews, providing comments and suggestions
+Provides reliable solutions to a variety of problems using sound problem solving techniques
+Performs technical root cause analysis and outlines corrective action for given problems
+Contributes to technical research on new technologies
+Estimates level of effort, evaluates new options of similar technology, offers suggestions to improve processes, and provides feedback on some electrical design aspects
+Serves as a mentor to less experienced software engineers (Software Engineer 1)
+Supports working hours as part of a rotating schedule to provide on call support of Garmin’s 24/7 operations
+Qualifications:
+Basic Qualifications
+Bachelor’s Degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math, Physics or related field AND a minimum of 1 year relevant experience OR an equivalent combination of education and experience
+Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)
+Demonstrated proficiency and experience necessary to develop moderately complex software in C, C++, C#, Java, assembly language, or other selected languages
+Proficient knowledge, utilization and mastery of relevant software engineering tools (configuration management systems, build processes, debuggers, emulators, simulators and logic analyzers)
+Desired Qualifications
+Frontend work will include project heavily using Angular, as well as HTML, CSS, JavaScript and Bootstrap to deliver a great user interface (UI) and user experience (UX).
+Backend work will include technologies such as Java, Scala, Kotlin, RESTful, Oracle, Postgres, Spring and containerization technologies such as Docker, Podman, CRI-O, Kubernetes and PCF
+Please complete the Employment Application, and reach out to us through our standard contact form. We will be in touch as soon as possible to receive your application.
+No phone calls please. We appreciate the opportunity to review all resumes, but we'll only be able to get back to those who are qualified.
+Compensation will be based on experience. Benefits after a probationary period.
+Web Developer
+This position includes improving and maintaining current websites and databases. We are looking for a team player that can take direction as well as take initiative by providing solutions to the company's growing needs. Candidate will be expected to provide sample code.
+This is a mid level position with excellent opportunities for advancement in the company. People that are strong in the following will be considered: Positive attitude, goal oriented, enthusiastic, strong work ethic, team player, willingness to learn and be trained, cares about people, and concerned about the end result. CZP is a fun and fast paced atmosphere where those who are willing to work hard and grow as a professional have a great future ahead.
+Requirements:
+Experienced in HTML, CSS, PHP, Javascript and MySQL
+Familiar with OOP, Composer, Vue.js, Git and Linux CLI
+Aware of web trends and technologies
+A desire to learn new technologies
+Detail-oriented and self motivated
+Able to communicate and explain solutions
+Our backend systems are primarily built in Python, leveraging AWS services such as Lambda, ECS, SQS, and ElastiCache for event-driven and distributed processing. We also use Airflow, Spark, Databricks, Terraform, and Datadog for orchestration, data processing, and observability.
+Key Responsibilities:
+Design and implement event-driven, distributed systems to extract, enrich, and process metadata from large-scale document and media datasets.
+Build and maintain scalable APIs and backend services for high-throughput content processing.
+Leverage AWS services (ECS, Lambda, SQS, ElastiCache, CloudWatch) to design and deploy resilient, high-performance systems.
+Collaborate with cross-functional teams to deliver backend solutions that power ML-driven features.
+Optimize and refactor existing backend systems for scalability, reliability, and performance.
+Ensure system health and data integrity through monitoring, observability, and automated testing.
+Requirements:
+5+ years of professional software engineering experience on Python or distributed systems development.
+Strong proficiency in Python (3+ years). Experience with Scala is a plus.
+Proven experience designing and building event-driven, distributed, and scalable systems.
+Hands-on experience with AWS services (ECS, Lambda, SQS, SNS, CloudWatch, etc.).
+Experience with infrastructure-as-code tools like Terraform.
+Solid understanding of system performance, profiling, and optimization.
+Bachelor’s degree in Computer Science or equivalent professional experience.
+Bonus: Familiarity with data processing frameworks (Spark, Databricks) and workflow orchestration tools.
+Bonus: Experience integrating ML or LLM-based models into production systems.
+The candidate must have 5 or more years of Java industry experience and be familiar with agile development.
+Bachelor's in computer science, computer engineering, or other technical discipline, or equivalent work experience.
+Expert knowledge of Java and Java servlet technologies
+Experience building dynamic web user interfaces using JavaScript solutions.
+React experience a big plus.
+Expert understanding of and experience with MVC frameworks
+Proficiency in SQL, JPA/Hibernate. Schema design a plus.
+Use of Git, Maven, IntelliJ, and familiarity with continuous integration practices.
+Able to communicate and work effectively in a team environment
+Excellent written and verbal communications
+US Citizenship or Permanent US Resident
+Bachelor’s degree in computer science or related field or equivalent experience
+1+ years with Unix/Linux and one of the many shells.
+1+ years using source control. (GIT preferred)
+1+ years writing mobile app code using Java, Swift, Kotlin
+Writes own unit tests (Junit or Expresso)
+Desirable skills include experience with Android Architecture Components, app release processes, Agile methodologies, continuous integration tools (Gradle, Jenkins), and UI/UX design.
+Excellent analytical skills.
+Excellent verbal, written, and listening communication skills.
+Excellent interpersonal skills and demeanor.
+Excellent knowledge of software development best practices, including coding standards, code reviews, source control management, build processes, testing, and operations.
+Understanding of Agile/Scrum/Kanban methodologies.
+Strong understanding of software development process, as well as software engineering concepts, principles, and theories
+Creative thinker capable of applying new information quickly to solve challenging problems
+Comfortable providing technical leadership
+Java SW Development, Maven Build Tools, VSCode IDE, REST full interface control experience.
+Team player who thrives in collaborative environments and revels in team success
+Commitment to ongoing professional development for yourself and others
+Strong programming background in C# / .NET Core
+Experience with web frameworks such as ASP.NET Core is a plus
+Experience with .NET Core Entity Framework is a plus
+Experience with databases is a plus
+Advanced understanding of Object-Oriented design and Design Patterns
+Knowledge of Bluetooth, Wi-Fi or other wireless communication protocols is a plus
+Must be analytical, creative and a good communicator
+Strong team player
+Fluent in English - other languages a plus
+Bachelor’s Degree in Computer Science, Electrical Engineering, Computer Engineering, Software Engineering, Aerospace Engineering, Math, Physics or related field OR an equivalent combination of education and experience
+Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)
+Demonstrated knowledge, education, experience and/or training necessary to develop basic software in C, C++, C#, Java, assembly language, or other selected languages
+Desired Qualifications
+Outstanding academics (cumulative GPA greater than or equal to 3.5)
+Previous work or internship experience in design, particularly for consumer products
+Experience in Objective-C, SwiftUI, UIKit, Kotlin, Java
+Pilot Certificate (Private Pilot license, Instrument rating, etc.) or Aviation industry experience
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 1+ years of software development engineer or related occupational experience
+- 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- 1+ years of Object Oriented Design experience
+- Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field
+- Experience programming with at least one software programming language
+- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- Bachelor's degree in computer science or equivalent
+- 5+ years of non-internship professional software development experience
+- 5+ years of programming with at least one software programming language experience
+- 5+ years of leading design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience as a mentor, tech lead or leading an engineering team
+- 3+ years of professional software development experience with a focus on building scalable systems
+- Experience building production ML infrastructure, including model deployment, serving, and monitoring systems
+- Experience with cloud technologies (AWS, GCP, Azure) and containerization software (Docker, Kubernetes, etc.)
+- Proficiency in Go, Python, and distributed systems technologies
+- Excellent written and verbal communication skills
+- Experience mentoring and supporting fellow engineers or interns
+- Bachelor's degree in Computer Science or related field or equivalent industry experience as a Software Engineer
+- Experience with model development
+- Proficiency with modern open source ML libraries (Pytorch, Tensorflow, ONNX, etc.)
+- Experience with workflow orchestration technologies (Airflow) for managing ML pipelines
+- Familiarity with Twitch, either as a viewer or creator (or both!)
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one software programming language
+- 3+ years of Apple platform development experience
+- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- Bachelor's degree in computer science or equivalent
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one software programming language
+- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- 3+ years of non-internship professional software development experience
+- Knowledge of professional software engineering & best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence
+- Experience building complex software systems that have been successfully delivered to customers
+- Knowledge of Python and/or C++ programming
+- Bachelor's degree in computer science or equivalent
+- Experience with AI/ML technologies
+- Experience in investigating, designing, prototyping, and delivering new and innovative system solutions
+- 3+ years of non-internship professional software development experience
+- Knowledge of professional software engineering & best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence
+- Experience building complex software systems that have been successfully delivered to customers
+- Knowledge of Python and/or C++ programming
+- Bachelor's degree in computer science or equivalent
+- Experience with AI/ML technologies
+- Experience in investigating, designing, prototyping, and delivering new and innovative system solutions
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one software programming language
+- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- Bachelor's degree in computer science or equivalent
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one software programming language
+- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- Bachelor's degree in computer science or equivalent
+- Bachelor's degree in computer science or equivalent
+- Experience with languages/frameworks we use at Twitch: Golang, Typescript/React
+- Experience building software and services using AWS technologies such as ECS, DynamoDB, Lambda, SQS, and Step Functions
+- Familiarity with Twitch, gaming, and/or streaming on Twitch
+- 1+ years of non-internship professional software development experience
+- Minimum of Bachelor’s degree in Computer Science or prior relevant engineering experiences
+- Strong understanding of data structures, algorithms, data modeling and schema design
+- Strong problem-solving skills and eagerness to learn new technologies and systems
+- Experience creating detailed technical documentation
+- Proficient experience level in one or more of the following language: Go, Typescript, Java, C++
+- Familiar with AWS ecosystem
+Are you an inventive software development engineer looking to grow your career with ownership of a highly visible, large scale, and big-impact service? Do you enjoy working in a fast paced environment where production pushes happen multiple times a week? Are you interested in solving complex business problem using AWS serverless architecture? Business Operations Automation team is looking for a full stack software engineer to build and maintain services that automate business processes within AWS Hardware Engineering. This engineer will operate in an ambiguous environment, work to identify the business problem and build services to solve complex customer use cases using AWS technologies such as Lambda, API gateway, DynamoDB, SNS, SQS, S3, Cloudwatch and more.
+The ideal candidate for this role will be an innovative self-starter. You will work with engineers, TPMs and PMs across the organization as well to deliver an amazing experience to your customers. AWS Engineers are shaping the way people use computers and designing the future of cloud computing technology – come help us make history!
+What you will do: You will be a member of the team that is developing a tool-set to increase the efficiency and operation of AWS Hardware Engineering. You will own features end to end including frontend, backend, database and automated testing. You will recommend product improvements based on your experience and implementation of operational metrics that shows what users are actually doing with our systems.
+Why it matters: AWS Hardware Engineering designs, manufactures, qualifies and tests all of the hardware that supports AWS massive and growing services. It is critical to have accessible, usable and scalable internal tools that can increase the efficiency of these hardware deliveries.
+Why you will love it: You will have a direct impact on our bottom line and the ability to deliver improvements for both organization executives and indidivual contributors.. You will be part of a growing, fast paced, and fun team. You will have ownership for the implementation of your work. You will see direct product improvements based on the results of your work.
+- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- Master's degree in computer science or equivalent
+- Experience in automation or monitoring frameworks, deployment or development
+- Experience working in a highly Agile/Scrum environment
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 1+ years of software development engineer or related occupational experience
+- 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- 1+ years of Object Oriented Design experience
+- Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field
+- Experience programming with at least one software programming language
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 1+ years of software development engineer or related occupational experience
+- 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- 1+ years of Object Oriented Design experience
+- Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field
+- Experience programming with at least one software programming language
+- Experience with languages/frameworks we use at Twitch: Golang, Typescript/React
+- Experience building software and services using AWS technologies such as ECS, DynamoDB, Lambda, SQS, and Step Functions
+- Familiarity with Twitch, gaming, and/or streaming on Twitch
+- 3+ years of non-internship professional software development experience
+- 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- 1+ years of Object Oriented Design experience
+- Experience programming with at least one software programming language
+- Bachelor's degree in computer science or equivalent
+- Knowledge of AWS services
+- 1+ years of experience writing quality software in Go or Typescript
+- Understanding of deployment tools and the software that makes software work
+- A desire to constantly make things better
+
+Preferred Qualifications
+- Knowledge of Go’s ecosystem
+- Experience working with GraphQL
+- Experience debugging complicated production software
+- Experience with asynchronous services
+- Experience working with distributed teams
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 1+ years of software development engineer or related occupational experience
+- 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- 1+ years of Object Oriented Design experience
+- Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field
+- Experience programming with at least one software programming language
+- 1+ years of non-internship professional software development experience
+- 1-2 years of experience building distributed, low-latency, high availability applications.
+- A degree in Computer Science, a related Engineering discipline, or equivalent experience
+- Have experience developing with static-typed languages. We work mostly in Go, and while experience as a Go developer isn’t required (you can learn it pretty quickly), we do believe being good at types is an important qualification.Enjoy building intuitive APIs for developers
+- Write high quality code that’s easy to read and understand
+
+Preferred Qualifications
+- Bachelor's degree in computer science or equivalent
+- Familiarity with AWS technologies
+- Familiarity with messaging or event driven systems
+- Experience building and maintaining large public API’s
+- 1+ years of non-internship professional software development experience
+- 0-2 years of professional software development experience
+- Excellent verbal and written communication skills; Ability to effectively collaborate with teammates is critical to success.
+- A track record of building consumer-facing products that users love
+- Demonstrable experience of modern programming languages and frameworks
+- Sharp problem-solving skills with a focus on algorithms, data structures, and schema design
+- Bachelor's degree in Computer Science or equivalent real-world experience
+
+Preferred Qualifications
+- Bachelor's degree in computer science or equivalent
+- Experience with mobile development, either native or hybrid
+- Familiarity with AWS infrastructure
+- Experience with email / notifications technologies
+- Experience writing Go in production systems
+Basic Qualifications
+- 3+ years of non-internship professional software development experience
+- Bachelor's degree in computer science or equivalent
+- 3+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Fundamentals of Machine learning and LLMs, their architecture, training and inference lifecycles along with work experience on optimizations for improving the model execution.
+- Software development experience in C++, Python (experience in at least one language is required).
+- Strong understanding of system performance, memory management, and parallel computing principles.
+- Proficiency in debugging, profiling, and implementing best software engineering practices in large-scale systems.
+
+Preferred Qualifications
+- Familiarity with PyTorch, JIT compilation, and AOT tracing.
+- Familiarity with CUDA kernels or equivalent ML or low-level kernels.
+- Candidates with performant kernel development such as CUTLASS, FlashInfer etc., would be well suited.
+- Familiar with syntax and tile-level semantics similar to Triton.
+- Experience with online/offline inference serving with vLLM, SGLang, TensorRT or similar platforms in production environments.
+- Deep understanding of computer architecture, operation systems level software and working knowledge of parallel computing.
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- 1+ years of Object Oriented Design experience
+- Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field
+- Experience programming with at least one software programming language
+
+Preferred Qualifications
+- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+Basic Qualifications
+- Currently enrolled in an accredited college or university Bachelor's or Master's degree program.
+- Graduating June 2028 and beyond.
+- Majoring in Computer Science, Software Engineering, or related STEM field.
+- Ability to work year-round until graduation (part-time during the school year and full-time during the summer).
+- Able to start work in June 2026.
+- Ability to work in person year-round at the New York corporate office. (This role is not offered remote or hybrid and all working hours must be in office).
+- Must be living within commutable distance to New York.
+- Programming experience with at least one modern language such as Java, Python, or C++ including object-oriented design.
+
+Preferred Qualifications
+- Previous technical internship(s), if applicable.
+- Ability to effectively articulate technical challenges and solutions.
+- Ability to solve complex problems and work through ambiguity.
+- 5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- Bachelor's degree in computer science or equivalent
+- 5+ years of programming using a modern programming language such as Java, C++, or C#, including object-oriented design experience
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 1+ years of software development engineer or related occupational experience
+- 1+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- 1+ years of Object Oriented Design experience
+- Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field
+- Experience programming with at least one software programming language
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 3+ years of building complex software systems experience
+- 2+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- Bachelor's degree or equivalent
+
+Preferred Qualifications
+- Knowledge of ML frameworks including JAX, PyTorch, vLLM, SGLang, Dynamo, TorchXLA, and TensorRT
+- Knowledge of Machine Learning and LLM fundamentals, including transformer architecture, training/inference lifecycles, and optimization techniques
+- Knowledge of Python and/or C++ programming
+- Are 18 years of age or older
+- Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript
+- Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles
+- Are enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields
+- Able to work 40 hours/week and commit to a 12-week internship
+- Expected conferral date between October 2026 – September 2029
+- Experience from previous technical internship(s) or demonstrated project experience
+- Experience with one or more of the following: AI tools for development productivity, Cloud platforms (preferably AWS), Database systems (SQL and NoSQL), Contributing to open-source projects, Version control systems, Debugging and troubleshooting complex systems
+- Demonstrated ability to learn and adapt to new technologies quickly
+- Basic understanding of software development lifecycle (SDLC)
+- Strong problem-solving and analytical skills
+- Excellent written and verbal communication skills
+- Knowledge of programming languages such as C/C++, Python, Java or Perl
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 3+ years of building complex software systems experience
+- 2+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- Bachelor's degree or equivalent
+Basic Qualifications
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 3+ years of building complex software systems experience
+- 2+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- Bachelor's degree or equivalent
+
+Preferred Qualifications
+- Knowledge of ML frameworks including JAX, PyTorch, vLLM, SGLang, Dynamo, TorchXLA, and TensorRT
+- Knowledge of Machine Learning and LLM fundamentals, including transformer architecture, training/inference lifecycles, and optimization techniques
+- Knowledge of Python and/or C++ programming
+Basic Qualifications
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 3+ years of building complex software systems experience
+- 2+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- Bachelor's degree or equivalent
+
+Preferred Qualifications
+- Knowledge of ML frameworks including JAX, PyTorch, vLLM, SGLang, Dynamo, TorchXLA, and TensorRT
+- Knowledge of Machine Learning and LLM fundamentals, including transformer architecture, training/inference lifecycles, and optimization techniques
+- Knowledge of Python and/or C++ programming
+Basic Qualifications
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 3+ years of building complex software systems experience
+- 2+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- Bachelor's degree or equivalent
+
+Preferred Qualifications
+- Knowledge of ML frameworks including JAX, PyTorch, vLLM, SGLang, Dynamo, TorchXLA, and TensorRT
+- Knowledge of Machine Learning and LLM fundamentals, including transformer architecture, training/inference lifecycles, and optimization techniques
+- Knowledge of Python and/or C++ programming
+Basic Qualifications
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 3+ years of building complex software systems experience
+- 2+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- Bachelor's degree or equivalent
+
+Preferred Qualifications
+- Knowledge of ML frameworks including JAX, PyTorch, vLLM, SGLang, Dynamo, TorchXLA, and TensorRT
+- Knowledge of Machine Learning and LLM fundamentals, including transformer architecture, training/inference lifecycles, and optimization techniques
+- Knowledge of Python and/or C++ programming
+
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- 3+ years of building complex software systems experience
+- 2+ years of designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, or Perl experience
+- Bachelor's degree or equivalent
+
+Preferred Qualifications
+- Knowledge of ML frameworks including JAX, PyTorch, vLLM, SGLang, Dynamo, TorchXLA, and TensorRT
+- Knowledge of Machine Learning and LLM fundamentals, including transformer architecture, training/inference lifecycles, and optimization techniques
+- Knowledge of Python and/or C++ programming
+- Experience with languages/frameworks we use at Twitch: Golang, Typescript/React
+- Experience building software and services using AWS technologies such as ECS, DynamoDB, Lambda, SQS, and Step Functions
+- Familiarity with Twitch, gaming, and/or streaming on Twitch
+Basic Qualifications
+- 1+ years of professional software development experience
+- Prior experience building consumer-facing products at scale
+- Proficient coding skills in modern languages and frameworks such as React, Golang, Rust etc
+- Proven ability with thinking though and delivering quality user experiences.
+- Minimum of Bachelor’s degree in Computer Science or equivalent experience
+
+Preferred Qualifications
+- Experience writing Go in production systems
+- Experience with languages/frameworks we use at Twitch: Typescript, Golang
+- Experience building software and services using AWS technologies such as ECS, DynamoDB, Lambda, SQS, and Step Functions
+- Familiarity with Twitch, gaming, and/or streaming on Twitch
+- Experience with languages/frameworks we use at Twitch: Golang, Typescript/React
+- Experience building software and services using AWS technologies such as ECS, DynamoDB, Lambda, SQS, and Step Functions
+- Familiarity with Twitch, gaming, and/or streaming on Twitch
+
+asic Qualifications
+- Bachelor's degree in computer science or equivalent
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design
+- Knowledge of professional software engineering & best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence
+- 2+ years of Amazon experience, or experience with AWS services or other cloud offerings
+
+Preferred Qualifications
+- 5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- 3+ years of leading development of applications backed by AWS services or using other cloud based technologies and services experience
+Basic Qualifications
+- Bachelor's degree in computer science or equivalent
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design
+- Knowledge of professional software engineering & best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence
+- Experience with AWS Services including EC2, Lambda, S3, DynamoDB, SQS
+
+Preferred Qualifications
+- 5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- 3+ years of leading development of applications backed by AWS services or using other cloud based technologies and services experience
+
+Basic Qualifications
+- Bachelor's degree in computer science or equivalent
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design
+- Knowledge of professional software engineering & best practices for full software development life cycle, including coding standards, software architectures, code reviews, source control management, continuous deployments, testing, and operational excellence
+- Experience with AWS Services including EC2, Lambda, S3, DynamoDB, SQS
+
+Preferred Qualifications
+- 5+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- 3+ years of leading development of applications backed by AWS services or using other cloud based technologies and services experience
+Basic Qualifications
+- Bachelor's degree in computer science or equivalent
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design
+
+Preferred Qualifications
+- 3+ years of leading development of applications backed by AWS services or using other cloud based technologies and services experience
+Basic Qualifications
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one software programming language
+- Experience programming with at least one modern language such as Java, C++, or C# including object-oriented design
+- Experience with full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+
+Preferred Qualifications
+- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- Bachelor's degree in computer science or equivalent
+- Experience with Java, Kotlin or React Native.
+- Experience with working on customer devices on Android platform.
+- Strong coding, algorithm, and debugging fundamentals. · Experience developing, releasing, and maintaining a high volume embedded system.
+- Experience developing on cloud based infrastructure.
+- Willingness to roll up one’s sleeves to get the job done.
+- Positive attitude and professional demeanor.
+- Experience influencing software engineering best practices within your team.
+- Passion for digital entertainment, including TV and Movies.
+Basic Qualifications
+- 5+ years of non-internship professional software development experience
+- 3+ years of programming with at least one software programming language experience
+- 3+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Extensive experience in physics simulation, with a preference for expertise in rigid body simulation. Experience with Isaac Sim, Unity, Unreal or proprietary 3D game engine, or industry-equivalent technology (3D animation, simulation, etc). Understanding of 3D graphics and real-time rendering applications. Passion for your craft and demonstrated excellence in physics simulation engineering. Proficiency in Python and C++.
+
+Preferred Qualifications
+- 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+- Bachelor's degree in computer science or equivalent
+- Experience with physical robots, reinforcement learning, synthetic data generation. Experience optimizing physics simulation for articulated robots and rigid body interactions. Familiarity with modern ML frameworks like PyTorch. Familiarity with 3D formats (URDF, MJCF, USD). Familiarity with 3D content creation tools (e.g, Blender, Houdini). Experience implementing techniques from research papers.
+Basic Qualifications
+- Bachelor's degree in Computer Science or a related field (or equivalent industry experience as a Software Engineer)
+- 1+ years of experience delivering high quality software in a production environment
+- Proficient coding skills in modern languages and frameworks
+- Familiarity with scalability, concurrency, API design, data modeling, and distributed systems fundamentals
+- Willingness to try new things and collaborate with a diverse group of people
+
+Preferred Qualifications
+- Experience with AWS technologies (such as S3, ECS, Lambda, DynamoDB, Redis, SQS, Flink, OpenSearch, and Sagemaker)
+- Experience writing Go in production systems
+- Experience with recommendations, search, or notification systems
+- Experience building and maintaining ML systems in production environments
+- Familiarity with Twitch and/or streaming on Twitch
+Basic Qualifications
+- 1+ years of professional software development experience
+- A track record of building consumer-facing products that users love
+- Mastery of modern programming languages and frameworks
+- Sharp problem-solving skills with a focus on algorithms, data structures, and schema design
+- Bachelor's degree in Computer Science or equivalent real-world experience
+
+Preferred Qualifications
+- Familiarity with Twitch's tech stack: Golang, Typescript/React
+- Experience with AWS technologies like ECS, DynamoDB, Lambda, SQS, and Step Functions
+- A passion for gaming, streaming, or the Twitch platform
+Basic Qualifications
+- 1+ Years experience developing software in a professional environment
+- Prior experience building consumer-facing products at scale
+- Proficient coding skills in modern languages and frameworks
+- Proven ability with algorithms, data structures, data modeling, and schema design
+- Minimum of Bachelor’s degree in Computer Science or equivalent experience
+
+Preferred Qualifications
+- Experience with languages/frameworks we use at Twitch: Golang, Typescript/React
+- Experience building software and services using AWS technologies such as ECS, DynamoDB, Lambda, SQS, and Step Functions
+- Familiarity with Twitch, gaming, and/or streaming on Twitch
+
+Proven experience coding in languages including, but not limited to, C, C++, C#, Java or Rust
+Bachelor's Degree in Computer Science or related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, or Rust
+OR Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, or Rust
+OR equivalent experience.
+Experience with large-scale and distributed system automation and execution frameworks
+
+Solid skills in system design, architecture, and software development.
+Experience building and shipping large-scale distributed systems
+
+Proven ability to deliver reliable, scalable solutions in complex environments.
+Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python,
+OR equivalent experience.
+Other Requirements
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: 
+
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+Preferred Qualifications
+Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python,
+OR Bachelor's Degree in Computer Science or related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python,
+OR equivalent experience.
+Experience with distributed systems.
+Experience working on services.
+Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in C++, Rust, C#, Python, and/or Java,
+OR equivalent experience.
+Other Requirements
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: 
+
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+Preferred Qualifications
+
+Bachelor's Degree in Computer Science, or related technical field AND 1+ year(s) technical engineering experience with coding in C++, Rust, C#, Python, and/or Java,
+OR Master's Degree in Computer Science or related technical field with proven experience coding in C++, Rust, C#, Python, and/or Java,
+OR equivalent experience.
+Professional and/or academic experience with cloud computing or cloud infrastructure, including platforms such as Azure, AWS, or GCP, and understanding of cloud fundamentals such as compute, networking, and storage.
+Professional and/or academic experience in distributed systems, cloud computing, and/or cloud infrastructure.
+Academic and/or professional experience with Linux and/or Windows.
+Professional and/or academic experience with VS Code, GIT, network monitoring tools, and/or debuggers.
+Experience with one or more of the following:
+PowerShell scripting
+RPC frameworks (gRPC)
+Kernel concepts
+Secure Coding
+REST APIs
+Partitioned and replicated services
+ML/AI development (ML models, fine tuning, MCP servers)
+Backend debugging and performance tuning
+Bachelor's Degree in Computer Science or related technical discipline, and proven experience coding in languages including, but not limited to, C++, C#, Java, Angular, and/or React,
+OR equivalent experience.
+Other Requirements
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: 
+
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+Preferred Qualifications
+
+Bachelor's Degree in Computer Science or related technical field AND 1+ year(s) technical engineering experience with coding in languages including, but not limited to, C++, C#, Java, Angular, and/or React,
+OR Master's Degree (or currently pursuing a degree) in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C++, C#, Java, Angular, and/or React,
+OR equivalent experience.
+Interest in backend and complex interactions within a massive cloud distributed system.
+Professional and/or academic experience with cloud services development, distributed systems, and/or computer architecture.
+Professional and/or academic experience with GIT, Visual Studio, and/or Code Agents (including Copilot, Claude, ChatGPT, and/or Llama).
+Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, C#, Go, Rust, or Python,
+OR equivalent experience.
+Other Requirements
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: 
+
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+Preferred Qualifications
+Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Go, Rust, or Python,
+OR Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python,
+OR equivalent experience.
+Experience with Bash and/or PowerShell.
+Experience, including coursework, in cloud, distributed systems, Kubernetes, AI, LLM, data protection, networking, Linux, Windows, and security.
+Experience with Ansible, CI/CD, and DevOps pipelines.
+Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, Go, or Rust,
+OR equivalent experience.
+Other Requirements
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+Preferred Qualifications
+Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, Go, or Rust,
+OR Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, Go, or Rust,
+OR equivalent experience.
+Academic or professional experience with cloud computing, distributed systems, and/or systems programming, including familiarity with Linux or Windows environments.
+Exposure to multi-threading, concurrency, and/or performance‑focused development.
+Understanding of core computer science fundamentals (e.g., data structures, algorithms, operating systems, networking), and familiarity with tools like Git, debuggers, and/or telemetry/monitoring systems.
+Interest or experience in system-layer storage technologies, backend infrastructure, and/or emerging applications of AI/LLMs in cloud services.
+Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C, C++, Python, or Rust,
+OR equivalent experience.
+Other Requirements
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+Preferred Qualifications
+Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, Python, or Rust,
+OR Bachelor's Degree in Computer Science or related technical field AND 1+ years technical engineering experience with coding in languages including, but not limited to, C, C++, Python, or Rust,
+OR equivalent experience.
+Academic or professional experience with cloud computing, distributed systems, and/or systems programming, including familiarity with Linux or Windows environments.
+Experience in computer networking, distributed systems, and/or cloud infrastructure, with familiarity in fundamentals such as TCP/IP, routing, and/or network protocols.
+Exposure to systems‑oriented and/or backend development.
+Understanding of core computer science concepts, including data structures, algorithms, operating systems, and/or networking, and experience using tools like Git, debuggers, and/or telemetry/monitoring systems.
+Interest in large‑scale networking, software‑defined networking (SDN), network virtualization, cloud‑native architecture, and building secure, reliable network services.
+Bachelor's Degree in Computer Science, or related technical discipline with proven experience coding in languages including, but not limited to, C++, Python, or Rust,
+OR equivalent experience.
+Other Requirements
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+Preferred Qualifications
+Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C++, Python, or Rust,
+OR Bachelor's Degree in Computer Science or related technical field AND 1+ years technical engineering experience with coding in languages including, but not limited to, C++, Python, or Rust,
+OR equivalent experience.
+Experience in database systems, distributed systems, cloud infrastructure, and/or performance engineering.
+Understanding of core computer science concepts, including data structures, algorithms, operating systems, and/or database internals, and familiarity with tools like Git, debuggers, and/or telemetry systems.
+Interest in cloud‑native databases, Hyperscale architecture, and/or emerging capabilities such as vector search, AI‑assisted features, and/or scalable compute/storage design.
+
+Bachelor's Degree (or currently pursuing a degree) in Computer Science or related technical discipline,
+OR equivalent experience.
+Proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python.
+Other Requirements:
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: 
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+Preferred Qualifications:
+Master's Degree in Computer Science or related technical field with proven experience coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+OR Bachelor's Degree in Computer Science or related technical field AND 2+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, or Python
+OR equivalent experience.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+1 year of experience with software development in one or more programming languages (e.g., C++ or Python).
+
+Preferred qualifications:
+Master's degree in Electrical Engineering, Physics, Mechanical Engineering, Computer Science or a related field.
+Experience developing tools upon ARM coresight architecture, commercial Joint Test Action Group (JTAG) debug solutions, or other debugging methodology on the hardware/software boundary.
+Experience designing developer tools for integration with AI/Large Language Model (LLM) workflows.
+Experience in Linux kernel, embedded systems, firmware or chipset bring-up.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development or 1 year of experience with an advanced degree in an industry setting.
+2 years of experience developing and maintaining scalable Machine Learning (ML) infrastructure.
+2 years of experience developing production quality software in C++.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures and algorithms.
+Experience architecting and developing software for scalable distributed systems and building infrastructure offerings.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in C++, Java or Python.
+Experience building and developing large-scale infrastructure or distributed systems.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+Experience with C++, Distributed systems, storage systems.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+Experience in development, testing, and deployment of backend services, APIs.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures or algorithms.
+Experience developing accessible technologies.
+Experience or interest in working on large-scale distributed systems.
+Ability to code in Go or similar language.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development or 1 year of experience with an advanced degree in an industry setting.
+2 years of experience building developer-facing products, integrated development environments or command line tools.
+Experience in Full-Stack Development, Integrated Development Environment (IDE) or extension development (VS Code/IntelliJ) across TypeScript/Java/Go/Python.
+Experience with Agentic AI frameworks and LLMs.
+Experience with API design, UI/UX integration for developer tools, and with large-scale distributed systems.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+Experience with Large Language Models for code (e.g., Gemini or similar), modern cloud infrastructure (e.g., GCP or similar), and industry-standard developer tool frameworks.
+Experience in Human-Computer Interaction (HCI).
+Knowledge of data warehousing concepts, and developer productivity metrics.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with Software-Defined Networking.
+1 year of experience with distributed computing.
+1 year of experience working in C++.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or a related technical field.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+2 years of experience with coding in Golang.
+2 years of experience testing, launching software products, and building developer tools that improve developer velocity, code quality and code health (e.g., compilers, automated releases, code design and testing, test automation frameworks).
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures and algorithms.
+Experience with Google Cloud services.
+Experience as an active participant in technical/developer communities, open source projects, or similar developer groups.
+Familiarity with Nextjs and Angularjs.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in Java.
+2 years of experience with Google Spanner and SQL.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+2 years of experience working with one or more of the following: API development, Software Architecture, GCP cloud technologies, cloud architecture.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures and algorithms.
+Experience with C++, Scaffolding.
+Experience developing accessible technologies.
+Minimum qualifications:
+Bachelor's degree or equivalent practical experience.
+5 years of experience with Software Development, Java, and Android Apps.
+Experience in Android Development and Android Libraries.
+Experience with Client Side Development.
+
+Preferred qualifications:
+Experience programming in Kotlin.
+Experience with Data Analytics and SQL.
+Experience with infrastructure systems.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience in software development.
+2 years of experience in C++ coding.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or a related technical field.
+Minimum qualifications:
+PhD degree in Computer Science, or a related field, or equivalent practical experience.
+Experience in embedded systems/firmware design.
+Experience coding in C or C++.
+
+Preferred qualifications:
+Knowledge of one or more of the following: Microcontrollers, SoC, device drivers, hardware, power management, ARM processors, performance optimization, file systems, bootloading, firmware, x86 assembly, system BIOS, or hardware/software integration.
+Knowledge of Unix/Linux environments and kernel development.
+Ability to start full-time role in 2026.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+5 years of experience with software development in one or more programming languages.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical field.
+5 years of experience with data structures and algorithms.
+1 year of experience in a technical leadership role.
+Experience with search or recommendation ranking.
+Experience with applied machine learning or AI.
+
+Minimum qualifications:
+PhD degree in Computer Science, or a related field, or equivalent practical experience.
+Experience coding in one of the following programming languages including but not limited to: C, C++, Python Java or Golang.
+Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.
+
+Preferred qualifications:
+Research experience in algorithms, architecture, artificial intelligence, compilers, databases, data mining, distributed systems, machine learning, networking, or systems.
+Experience in designing and implementing a complex system, for production or experimental use.
+Experience with performance, reliability, systems data analysis, visualization tools, or debugging.
+Ability to start full-time role in 2026.
+Excellent engineering skills.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with coding in C++.
+1 year of experience with distributed computing.
+1 year of experience with SQL.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or a related technical field.
+1 year of experience with data center networking.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in Java and Kotlin.
+2 years of experience with Android application development.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical field.
+2 years of experience with data structures or algorithms in either an academic or industry setting.
+2 years of experience with performance, large-scale systems data analysis, visualization tools, or debugging.
+Experience developing accessible technologies.
+Experience in code and system health, diagnosis and resolution, and software test engineering.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with Android application development.
+2 years of experience with software development in Java programming language, or 1 year of experience with an advanced degree.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures and algorithms.
+1 year experience with iOS Software Development Kit.
+Experience developing accessible technologies.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+1 year of experience with one or more of the following: Speech/audio (e.g., technology duplicating and responding to the human voice), reinforcement learning (e.g., sequential decision making), ML infrastructure, or specialization in another ML field.
+1 year of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
+Experience in C++, infrastructure systems, and Cloud.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures and algorithms.
+Experience in Python, Vertex AI, machine learning infrastructure, and API design.
+Ability to move quickly and adapt to changing requirements.
+Excellent communication skills, with the ability to organize stakeholders from across teams.
+Passion for service health and system maintainability.
+Minimum qualifications:
+Bachelor's degree or equivalent practical experience.
+2 years of experience with software development or 1 year of experience with an advanced degree in an industry setting.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Experience in the following: Software Development, Software Implementation/Integration, Public Key Infrastructure.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+Experience in one or more of the following areas: Backend, Cloud APIs, Cloud Networking, Cloud Security, Distributed Systems, Infrastructure Systems, Intrusion Prevention Systems, Kubernetes, Networking, Virtual Machines.
+Experience in Intrusion Detection and Prevention systems, Firewalls and certificate management.
+Experience working in virtualized systems or with public cloud infrastructures.
+Experience with software engineering, algorithm design, implementation and testing.
+Experience with Firewall or Public Key Infrastructure.
+Minimum qualifications:
+Bachelor's degree or equivalent practical experience.
+2 years of experience with software development or 1 year of experience with an advanced degree in an industry setting.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+3 years of experience in software engineering, in a large-scale cloud environment with knowledge in building and operating Compute Infrastructure.
+Experience with building system skills, including low-level system software, Operating Systems (OS), firmware, low-level networking, or hardware.
+Experience with debugging, troubleshooting and diagnosing issues in distributed systems.
+Experience testing, maintaining, and launching software products or infrastructure.
+Experience with compute technologies.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+2 years of experience applying ML/AI and launching ML-powered products.
+Experience in AI/ML quality evaluation and improvements.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures or algorithms.
+Experience developing accessible technologies.
+Experience building and deploying computer vision models for real-time perception systems.
+Bachelor’s degree or equivalent practical experience.
+2 years of experience programming in C++, Python or Go.
+2 years of experience with developing large-scale infrastructure, distributed systems or networking, or experience with compute technologies or hardware architecture.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or a related technical field.
+2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+2 years of experience with data structures and algorithms in either an academic or industry setting.
+Experience developing accessible technologies.
+Proficiency in code and system health, diagnosis and resolution, and software test engineering.
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development or 1 year of experience with an advanced degree in an industry setting.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Experience in one or more of the following: test automation, refactoring code, test-driven development, build infrastructure, optimizing software, debugging, building tools and testing frameworks.
+Experience with engineering tools and infrastructure.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures and algorithms.
+Experience developing accessible technologies.
+Experience with Google Distributed Cloud/Google Cloud Platform, Terraform, or Google Kubernetes Engine.
+Experience in infrastructure with broad knowledge across compute, storage and networking.
+Experience in networking and lower level of software stack (e.g., kernel).
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development or 1 year of experience with an advanced degree in an industry setting.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+2 years of experience in C++, Java, or Go, with a focus on high-performance, low-latency code.
+Experience designing and developing relational databases, database internals, information retrieval, query planning and execution.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or a related technical field.
+2 years of experience with data structures and algorithms.
+Experience with query compilers, plan generation, and execution engines.
+Experience developing accessible technologies.
+Knowledge of GQL or Cypher.
+Understanding of concurrency control, consensus algorithms (e.g., Paxos), and data replication strategies.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+Experience coding with languages like C++, or Python
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures and algorithms.
+Experience building and developing infrastructure or distributed systems.
+Experience optimizing software system performance.
+Experience in networking technologies/concepts such as software defined networking (SDN).
+Knowledge of internet routing technologies and router/switch telemetry.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+2 years of experience in data analysis, with experience in SQL.
+Experience in the following: Python, Go or C++, etc.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures and algorithms.
+Experience building or managing distributed systems or cloud infrastructure.
+Experience in developing tools and infrastructure for data pipelines: datastore, UX (including interactive UIs), databases, etc.
+Experience in making raw data actionable and improving debuggability based on raw or structured data (via statistics or ML/Al).
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development or 1 year of experience with an advanced degree in an industry setting.
+2 years of experience with developing large-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+Experience in one or more of the following: back-end, build infrastructure, cloud infrastructure, cloud security, cyber security, cyber threat intelligence.
+Experience in one or more of these programming languages as a back-end engineer: Java, Go.
+Experience in one or more of these programming languages as an ML engineer: Java, Go, Python.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+3 years of experience as a Software Engineer, demonstrating expertise in developing, deploying, and maintaining high-quality, production-grade code.
+Experience designing, building, and operating large-scale distributed systems/real-time data processing pipelines.
+Experience with ML and AI security.
+Understanding of common security threats, vulnerabilities, and attack vectors (e.g., OWASP Top 10, MITRE ATT&CK framework).
+Passion for cybersecurity, particularly threat detection, security monitoring, or incident response.
+Minimum qualifications:
+PhD degree in Computer Science, a related field, or equivalent practical experience.
+Experience coding in one of the following programming languages: C, C++, Java or Python.
+Experience in one or more of the following: architecting or developing distributed systems, concurrency, multi-threading, or synchronization.
+
+Preferred qualifications:
+1 year of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+Experience in code and system health diagnosis and resolution, and software test engineering.
+Experience developing accessible technologies.
+Ability to start full-time role in 2026.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+Experience coding in one or more of the following languages: C++, Java or Go.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures and algorithms.
+Experience in networking technologies/concepts such as Software Defined Networking (SDN).
+Understanding of Internet routing technologies and router/switch telemetry.
+Ability to debug complex distributed software systems.
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in the C++ programming language.
+1 year of experience in building software for data privacy or security.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical field.
+2 years of experience with data structures or algorithms in either an academic or industry setting.
+Experience building software in the Rust programming language.
+Experience contributing to the Chromium open-source project.
+Familiarity with web browser internals.
+Understanding of memory safety vulnerabilities and exploit primitives.
+Minimum qualifications:
+PhD degree in Computer Science, or a related technical field, or equivalent practical experience.
+Experience coding in one of the following programming languages including but not limited to: C, C++, Java, JavaScript, Python, or Golang.
+Research experience in an area of computer systems design and implementation.
+
+Preferred qualifications:
+PhD degree in Computer Science, Computer Engineering, Electrical Engineering, or a related field.
+Experience in Research areas such as storage systems, memory systems, distributed systems and networks, novel I/O systems, computer architecture and accelerators, databases and analytics, cloud computing, sustainability, privacy, or other emerging technologies.
+Experience in authoring/co-authoring of papers in venues in the systems field (e.g., SOSP, OSDI, ISCA, ASPLOS, MICRO, ASPLOS, PLDI, SIGCOMM, NSDI, SIGMOD, etc.).
+Experience in systems for Machine Learning (ML).
+Experience designing and implementing an experimental system in a research or product development environment.
+Minimum qualifications:
+Bachelor’s degree in Computer Science, a related technical field, or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+Experience with systems infrastructure, C++ programming, or Unix/Linux environments.
+
+Preferred qualifications:
+Master's degree or PhD in Computer Science or related technical fields.
+2 years of experience with data structures and algorithms.
+Experience developing accessible technologies.
+Experience with distributed systems, cloud networking, or TCP/IP networking protocols.
+Experience designing or maintaining large-scale infrastructure systems, focusing on concurrency, multithreading, or back-end services.
+Minimum qualifications:
+PhD degree in Electrical Engineering, Computer Engineering, Computer Science, a related field, or equivalent practical experience.
+Experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).
+Experience working with data structures or algorithms during coursework/projects, research, internships, or practical experience in school or work (e.g., open-source coding).
+
+Preferred qualifications:
+2 years of experience related to infrastructure automation, cloud platforms (particularly Google Cloud/GCE), CI/CD systems, or building/maintaining large-scale testing/staging environments.
+Experience in leveraging AI/ML in solving Developer Experience/DevOps related problems.
+4+ years of Software development experience designing and building complex, highly available, large scale web applications.
+3+ years in frontend development.
+Bachelor’s or Master’s degree in computer science or equivalent experience.
+Preferred Qualifications
+Frontend development. using HTML5, CSS3, JS & one or more JavaScript frameworks like NextJS, React, Angular or equivalent.
+Excellent knowledge of server side programming languages & frameworks like
+Node.js, Express, Java & Spring.
+Experience with RESTful API usage and development.
+Understanding of security best practices for web applications.
+Experience in web analytics, accessibility, standards, and SEO techniques.
+Ability to learn and apply new technologies quickly.
+Strong understanding of TypeScript and the latest ECMAScript standards.
+Experience with non-relational, NoSQL databases and various data-storage systems.
+Experience with micro-services architecture and containerization (e.g., Docker, Kubernetes).
+Familiarity with messaging platforms like Kafka.
+Familiarity with CI/CD pipelines and automated testing frameworks.
+Strong problem solving skills, with the ability to work in a dynamic and agile environment.
+Ability to collaborate with teams located in different locations.
+Ability to learn and apply new technologies quickly.
+Expertise with cloud services.
+Expertise with Build Tools.
+Experience with reactive or functional programming.
+Experience with data visualization technologies.
+Experience developing solutions to build dynamic UI through configuration is a plus.
+Proven ability in programming using coding languages such as (Swift, C/C++, or equivalent)
+Experience using Xcode to build software for Apple’s platforms
+Familiarity with open-source ML toolkits and frameworks (e.g., PyTorch, TensorFlow, OpenNMT)
+Proven ability to comprehend, interpret, and apply cutting-edge research into customer-oriented products, particularly developer tools
+Preferred Qualifications
+BS or MS in Computer Science (or equivalent experience)
+Proficiency with the Swift programming language
+Proficiency with Apple’s development APIs (SwiftUI, Foundation, etc)
+Experience with Large Language Models (LLM) and fine-tuning them
+Proven ability in programming using coding languages such as (Swift, C/C++, or equivalent)
+Experience using Xcode to build software for Apple’s platforms
+Familiarity with open-source ML toolkits and frameworks (e.g., PyTorch, TensorFlow, OpenNMT)
+Proven ability to comprehend, interpret, and apply cutting-edge research into customer-oriented products, particularly developer tools
+Preferred Qualifications
+BS or MS in Computer Science (or equivalent experience)
+Proficiency with the Swift programming language
+Proficiency with Apple’s development APIs (SwiftUI, Foundation, etc)
+Experience with Large Language Models (LLM) and fine-tuning them
+6+ years relevant experience building large-scale applications or similar experience
+Experience with scripting languages such as Python, Javascript or Hack
+Experience as an owner of a particular component, feature or system
+Experience completing projects at large scope
+Experience building and shipping high quality work and achieving high reliability
+Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes
+Experience in programming languages such as C, C++, Java, Swift, or Kotlin
+Bachelor’s degree (or foreign degree equivalent) in Computer Science, Computer Software, Computer Engineering, Human-Computer Interaction, Applied Sciences, Mathematics, Physics or related field and 3 years of experience in the job offered or in a computer-related occupation
+Experience must include 3 years of experience in the following:
+Coding in an industry-standard language (e.g. Java, Python, C++, or JavaScript)
+C, C++, C#, or Java
+Python, PHP, or Haskell
+Relational databases and SQL Software development tools: Code editors (VIM or Emacs), and revision control systems (Subversion, GIT, or Perforce)
+Linux, UNIX, or other *nix-like OS including file manipulation and simple commands
+Core web technologies: HTML, CSS, or JavaScript
+Building highly-scalable performant solutions
+Distributed systems including sharding, consistency, and availability and
+Algorithms
+Experience in programming languages such as C, C++, or Java, and scripting languages such as Python, Javascript, or Hack
+Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta
+2+ years of programming experience in a relevant language OR a PhD + 9 months programming experience in a relevant language
+Track record of setting technical direction for a team, driving consensus and successful cross-functional partnerships
+Experience building maintainable and testable code bases, including API design and unit testing techniques
+Preferred Qualifications
+1+ years of experience building complex applications targeting Android in production using its native languages and frameworks
+Experience with multithreading programming and mobile memory management
+Experience building maintainable and testable code bases, including API design and unit testing techniques
+2+ years of experience building Android applications in Java or Kotlin using Android SDK
+Shipped at least one large-scale product to production, supporting millions of active users
+Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta
+2+ years of programming experience in a relevant language OR a PhD + 9 months programming experience in a relevant language
+Track record of setting technical direction for a team, driving consensus and successful cross-functional partnerships
+Experience building maintainable and testable code bases, including API design and unit testing techniques
+Preferred Qualifications
+Exposure to architectural patterns of large scale software applications
+Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes
+Experience with scripting languages such as Python, Javascript or Hack
+2+ years of relevant experience building large-scale applications or similar experience
+Experience completing projects at large scope
+Experience in programming languages such as C, C++, Java, Swift, or Kotlin
+Experience as an owner of a particular component, feature or system
+1+ years of experience identifying, designing and completing medium to large features independently without guidance
+Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta
+2+ years of programming experience in a relevant language OR a PhD + 9 months programming experience in a relevant language
+Track record of setting technical direction for a team, driving consensus and successful cross-functional partnerships
+Experience building maintainable and testable code bases, including API design and unit testing techniques
+Preferred Qualifications
+Experience owning a component, feature or system
+Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes
+Experience in programming languages such as C, C++, Java
+Exposure to architectural patterns of large scale software applications
+Experience designing, analyzing and improving efficiency, scalability, and stability of various system resources
+2+ years of relevant experience building large-scale infrastructure applications or similar experience
+1+ years of experience identifying, designing and completing medium to large features independently without guidance
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
+6+ years of programming experience in a relevant language or 3+ years of experience + PhD
+Track record of setting technical direction for a team, driving consensus and successful cross-functional partnerships
+Experience building maintainable and testable code bases, including API design and unit testing techniques
+Preferred Qualifications
+2+ years experience building Android applications in Java or Kotlin using Android SDK
+Experience with multithreading programming and mobile memory management
+Shipped at least one large-scale product to production, supporting millions of active users
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
+8+ years of programming experience in a relevant language OR 4+ years experience with a PhD
+Demonstrated experience driving change within an organization and leading complex technical projects
+Experience utilizing data and analysis to explain technical problems and provide detailed feedback and solutions
+Preferred Qualifications
+Experience in programming languages such as C, C++, Java, Swift, or Kotlin, and scripting languages such as Python, Javascript, or Hack
+6+ years relevant experience building large-scale applications or similar experience
+Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
+8+ years of programming experience in a relevant language OR 4+ years experience with a PhD
+Demonstrated experience driving change within an organization and leading complex technical projects
+Experience utilizing data and analysis to explain technical problems and provide detailed feedback and solutions
+Preferred Qualifications
+Masters degree or PhD in Computer Science or a related technical field
+Experience with frameworks like TensorFlow, PyTorch, or Scikit-learn
+Knowledge of NLP techniques, including text preprocessing, tokenization, and sentiment analysis
+Understanding of information retrieval concepts, such as indexing, querying, and ranking
+Demonstrated grasp of data structures and algorithms, including graph theory and optimization techniques
+You’re a problem solver who loves seeing things through from concept to production and you’re eager to learn whatever skills are needed along the way.
+You are a Fullstack Developer who understands the complexities of Server side vs Client side development and is interested in crossing the lines between Backend, Data and Front End.
+You have 3+ years of experience with Java, SQL and ideally familiar with React, Typescript, Next.js
+You’re a collaborative teammate who values inclusion and open communication.
+You have an understanding of the authorization domain and are eager to learn.
+
+2+ years’ experience developing iOS applications at scale with a high volume of users, preferably in Swift and SwiftUI.
+Extensive experience working with Swift, iOS Applications, GraphQL and REST APIs, with a proven track record in implementing secure and privacy-centric solutions.
+Excellent engineering and coding skills. Solid understanding of client networking, performance, caching, client storage solutions, accessibility, and asynchronous programming, with a deep understanding of privacy-by-design principles.
+Love collaborating via code reviews and architecture discussions, and are motivated to improve their teammates’ productivity, especially in areas related to security and privacy.
+You possess strong product sense and a passion for iOS UI and UX product development, with a keen eye for user privacy considerations.
+Demonstrated ability to collaborate with Product Management, Design, and other iOS, Android, and Web Engineers on complex account, identity, and privacy features.
+You’re passionate about continuous learning and innovation in the mobile industry, particularly regarding evolving privacy standards and technologies.
+Sound engineering and coding skills. Understanding of basic data structures and asynchronous programming.
+[Bonus] Experience with animation libraries. Knowledge of animation within SwiftUI.
+
+ 2+ years industry experience
+ Bachelor’s and/or Master’s degree, preferably in CS, or equivalent experience
+ Experience shipping one or more Swift apps, ideally currently available in the Apple Store
+ Personal projects that show an aptitude for technical excellence and product sense
+ Ability to work in areas outside of your usual comfort zone and show motivation for personal growth
+ Solid engineering and coding skills. Understanding of basic data structures, asynchronous programming, and automation and testing best practices
+ Interest in innovations within the mobile industry
+3+ years of relevant industry experience.
+Strong collaboration and communication skills, with the ability to work effectively across teams.
+Solid understanding of distributed systems fundamentals and a desire to deepen your expertise in this area.
+Ability to write clean, readable, testable, and maintainable code.
+Experience onboarding to and contributing to a complex codebase.
+Enthusiasm for learning and growing your skills in infrastructure engineering.
+Exposure to distributed caching systems, KV stores, or similar infrastructure is a plus.
+
+Experience working on distributed systems, API design, and concurrency
+Extensive JVM experience
+Bonus points for any of the following: instrumentation/telemetry, cloud (especially AWS) cost efficiency, L7 networking, service mesh, libraries, serialization, or developer tooling
+Want to tackle projects with large open-ended scope and drive significant business impact
+Love collaborating via product reviews, code reviews and architecture discussions
+Are motivated to improve their teammates’ productivity
+Are excited to join an impactful infrastructure team
+9+ years industry experience
+Bachelor’s and/or Master’s degree, preferably in CS, or equivalent experience
+Proficiency in one or more back-end server languages (Java/Ruby/Go/C++/etc.)
+Experienced in architectural patterns of a high-scale distributed products/services, such as well-designed APIs, data pipelines and efficient algorithms
+Experience or desire to work collaboratively in cross-functional teams with design, product and data science partners
+10+ years of industry experience.
+Strong expertise in the following: Java, Python and JavaScript, React.
+Extensive experience with modern fullstack development, including knowledge on the front and back end of the stack.
+Passion for delivering products end-to-end: from ideation through planning and scoping to implementation and experimental A/B testing.
+Deep understanding of back end and frontend architecture and improving build processes.
+Ability to mentor and grow more junior engineers (set and drive best practices for iOS client development)
+Personal projects that show an aptitude for technical excellence and product sense
+Ability to work in areas outside of your usual comfort zone and show motivation for personal growth
+Interest in innovations within the web community.
+Nice to have: demonstrated design and UX sensibilities
++ years of software development experience in service-oriented architectures and backend development.
+Expertise in workflow optimization and backend systems, with a focus on scalable and flexible architecture.
+Expertise in designing and iterating on prompt engineering to fine-tune AI capabilities for AI/LLM-driven scenarios.
+Expertise of RAG patterns, memory routing, and agent planning.
+Expertise in integrating LLMs with APIs, vector databases, and orchestration framework.
+Proficiency in crafting backend systems focusing on technical quality, efficiency, and resilience.
+Excellent collaboration and communication skills to work effectively across teams and domains.
+Passion for agile development, system optimization, and team productivity enhancements.
+Bachelor’s and/or Master’s/Ph.D. degree, preferably in Computer Science, or equivalent practical experience.
+9+ years of industry experience building Android apps using Kotlin.
+Experience building frameworks and build-systems (using Gradle, Bazel, etc.)
+Deep technical understanding of how dependency injection systems work (e.g. Dagger)
+Experience building code generation tools (e.g. annotation processors, KSP, Kotlin compiler plugins)
+Experience working in medium to large-scale codebases.
+[Nice to have] 2+ years of experience using Jetpack Compose.
+[Nice to have] Experience building Android Studio / IntelliJ IDEA plugins.
+[Nice to have] Experience using Compose for desktop.
+Ability to travel to the San Francisco office for about a week each quarter for gatherings.
+9+ years of relevant industry experience with a Bachelor’s and/or Master’s degree in CS/EE, or equivalent experience, or 6+ years of experience with a PhD
+Strong CS fundamentals, and knowledge of architecture and common design patterns
+You’re passionate about being in a product-focused environment where everyone cares deeply about customer impact
+You have experience of running data processing pipelines in production using distributed data processing frameworks like Apache Spark or Flink
+Experience collaborating with client, backend, ml, analytics teams, product and business partners
+Effectively work across team boundaries to establish overarching data architecture, data flow, and provide guidance to individual teams
+Experience working on/with end-to-end Machine Learning products
+Excellent communication skills, both written and verbal
+BS/MS/PhD in Computer Science, a related field, or equivalent work experience preferred.
+10+ years of experience working with data infrastructure, with a focus on big data technologies.
+Proficiency in big data technologies such as Hadoop, Yarn, Spark, Presto/ Trino, Hive, and AWS EMR.
+Strong programming skills in languages such as Java, Scala.
+Extensive experience in designing, building, and maintaining scalable, fault-tolerant distributed systems.
+Demonstrated expertise in multi-threading and concurrency programming.
+Familiar with database systems, both SQL and NoSQL.
+Proven ability to collaborate with other teams to define system requirements, identify potential solutions, and test and integrate systems.
+Capacity to troubleshoot and resolve complex data infrastructure problems.
+Strong communication skills, both written and verbal.
+Ability to work effectively in a team environment.
+9+ years in a hands-on software engineering role, shipping high quality code to production, especially for high scale, distributed systems, data pipelines, and/or analytical libraries.
+Experience with at least one modern, general programming language (e.g. Python, Java)
+Experience with scientific/statistical computation, especially involving online experimentation
+Experience building software with ergonomic interfaces and great developer experience, especially for technical data users (e.g. data scientists).
+Experience with at least one modern “big data” technology (e.g. Spark, Dataflow)
+Strong SQL skills - you should be able to “go deep” when debugging or optimizing.
+[Nice to have] Experience building frameworks which generate data pipelines at scale.
+[Nice to have] Experience with a distributed stream processing framework (e.g. Flink, Kafka, Dataflow)
+Your Location:
+9+ years of relevant software development industry experience in a fast-paced tech environment
+Strong proficiency in at least one major backend programming language (e.g., Java, Kotlin, Scala, Python) and experience with modern frontend frameworks (e.g., React, Angular, Vue.js)
+Proven track record of delivering end-to-end products in a collaborative environment, from ideation and planning to implementation and launch
+Experience with architectural patterns of large-scale web applications, including well-designed APIs, high-volume data pipelines, and efficient algorithms
+Demonstrated ability to make data-driven decisions, articulate technical trade-offs, and communicate effectively with cross-functional partners
+Passion for creating intuitive user experiences and a keen interest in data systems and analytics
+Good judgment in making tradeoffs to balance short-term business needs with long-term technical quality
+Strong understanding of how deep backend systems are expressed in the UX shown to customers
+End-to-end mentality that transcends team boundaries and helps find globally optimal solutions
+Excellent communication skills and the ability to work well within a team and with teams across the engineering organization
+Passionate about efficiency, availability, system quality and user experience
+Passionate about building AI-driven applications that deliver innovative and impactful solutions
+9+ years of experience with a BS/Masters or 4+ years with a PhD
+You have experience leading teams, setting technical direction, building & launching high-impact models
+You have experience influencing partners as well as other engineering teams
+You exhibit strong ownership and experience building and operating high-scale, distributed systems across the full software life cycle.
+You have excellent communication skills and the ability to work well within a team and across engineering teams.
+Expertise in large-scale distributed data processing frameworks like Presto or Spark.
+Prior experience with the whole lifecycle of productionalization of ML models,  including ETL pipelines for data training, feature generation, model evaluation and real-time serving.
+You are a strong problem solver and have solid production debugging skills.
+Collaborate with team members & cross functional partners to identify opportunities for improving our developers’ productivity.
+Drive roadmap projects and deliver high quality results to further our mission.
+Improve our existing frameworks & toolings to deliver on our ambitious vision.
+Your Expertise:
+
+5-9+ years of industry experience building iOS apps.
+Experience building frameworks, including integration with code generation
+Deep iOS expertise with experience in foundation/platform/infrastructure development
+iOS product feature development experience
+Experience working in medium to large-scale codebases.
+[Nice to have] 2+ years of experience using SwiftUI
+[Nice to have] 2+ years of experience using Apple’s modern concurrency offerings, Combine and Swift Concurrency
+[Nice to have] Experience leveraging Agentic AI to drive large scale migrations
+Ability to travel to the San Francisco office for about a week each quarter for
+10+ years industry experience
+You have experience leading teams, setting technical direction, building & launching high-impact user-facing products
+You have experience influencing partners such as designers and product managers as well as other engineering teams
+You are excited to ideate, prototype new ideas, and influence product direction
+You have excellent communication skills and the ability to work well within a team and across engineering teams
+You have demonstrated an ability to mentor and grow more junior engineers, set and drive best practices
+10+ years of relevant performance optimization industry experience in a fast paced, high growth tech environment.
+A working knowledge of processor vectorization activation for various COTS applications
+Deep software tuning and optimization experience, Java preferred but other major languages such as C++ acceptable.
+Expertise in using metrics to uncover performance issues.
+Familiarity with system hardware as it pertains to performance.
+Familiarity with a public cloud provider (AWS, GCP, Azure) and their infrastructure as a service offering (e.g. EC2).
+Familiarity with container and orchestration technologies such as Docker and Kubernetes.
+You have excellent communication skills and the ability to work well within a team and across engineering teams.
+You are a strong problem solver and have solid performance debugging skills.
+Experience of load testing software either in production or through benchmarking
+You are passionate about efficiency and performance
+9+ years industry experience
+Bachelor’s and/or Master’s degree, preferably in CS, or equivalent experience
+Experience in building and scaling high-quality and high-traffic products (or systems).
+Ability to evaluate technical approaches and design product solutions to solve real-world problems.
+Ability to drive alignment, manage projects and effectively collaborate with stakeholders.
+Mentorship to junior developers
+Experience in fraud prevention or identity systems
+Contribute across the stack to build and refine multi-platform editor extensions that bring GitLab Duo directly into developers’ daily workflows.
+Design, implement, and maintain TypeScript and Node.js services that power our GitLab Duo CLI, including rich interactive terminal experiences.
+Develop and enhance our JetBrains IDE plugin, working with the IntelliJ Platform SDK and Kotlin to deliver performant, intuitive in-IDE experiences.
+Implement features and improvements in our GitLab Language Server to provide consistent, AI-assisted workflows across editors and platforms.
+Build modern, accessible UI components using Vue 3, shadcn-style component libraries, and Tailwind-based theming as part of our next-generation editor experience.
+Collaborate closely with product, design, and other engineering teams in the AI Engineering section to align technical decisions with our broader multi-platform strategy.
+Advocate for and contribute to improvements in product quality, security, performance, and developer experience, including refining internal engineering standards and best practices.
+Participate in code reviews, provide mentorship to peers, and help shape the technical direction of editor extensions and multi-platform developer tooling at GitLab.
+What you'll bring
+Strong proficiency with TypeScript across frontend and backend, including building and maintaining Node.js-based services.
+Hands-on experience building command-line applications and interactive terminal experiences using modern frameworks or libraries.
+Experience working with modern IDE extension ecosystems (for example, JetBrains IDEs or similar platforms), including understanding of plugin architectures and development workflows.
+Experience with Kotlin or modern Java, and an interest in applying or extending that experience to multi-platform development.
+Understanding of the Language Server Protocol (LSP) or experience working with language servers and editor integration.
+Experience with modern build systems, including managing multi-module builds and dependencies.
+Experience with Vue 3, the Composition API, and reactive UI design, including work with component libraries and theming systems.
+Lead engineers across the Composition Analysis and Dynamic Analysis groups, setting clear priorities and expectations.
+Drive key security initiatives, including auto-remediation of vulnerable software packages, scanning unmanaged C/C++ dependencies, static reachability analysis, and snippet detection for open source dependencies.
+Improve Dynamic Analysis Security Testing (DAST) capabilities by enhancing the crawler for efficiency, stability, and consistent web application traversal.
+Balance priorities and resources across multiple security-focused engineering teams to ensure sustainable delivery and high-quality outcomes.
+Author and maintain project plans for epics spanning both groups, aligning work, identifying dependencies, and avoiding duplication of effort.
+Run agile project management processes for multiple teams, including planning, estimation, and continuous improvement of delivery practices.
+Provide guidance on the architecture of security products, ensuring that software composition analysis and dynamic analysis solutions are robust and scalable.
+Collaborate closely with Composition Analysis and Dynamic Analysis teams to ensure consistent, complementary approaches to application security across GitLab’s platform.
+What you’ll bring
+Background leading multiple technical teams or groups, ideally in application security or related domains
+Practical understanding of software composition analysis, including how to assess and manage risks in application dependencies
+Knowledge of dynamic application security testing (DAST), API security, and web application security testing techniques and tools
+Familiarity with containerization technologies, package managers, and dependency management systems
+Experience working with or around open source security tooling (for example, OWASP ZAP, Trivy, or similar tools)
+Ability to plan and run agile project management processes across several teams, including coordinating priorities and dependencies
+Skill in guiding product and architecture decisions for security scanning tools, balancing technical constraints with customer needs
+Openness to candidates with transferable experience in security engineering, DevSecOps, or vulnerability management who are motivated to grow in application security leadership
